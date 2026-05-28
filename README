@@ -1,0 +1,18 @@
+# Data Cleaning & Structural Validation
+
+## Objective
+Transform raw, unstructured data into a clean and reliable format for analysis.
+
+## Cleaning Steps
+1. Removed duplicate records
+2. Filled missing values
+3. Standardized date formats
+4. Corrected inconsistent text formats
+5. Validated data structure
+
+## Tools Used
+- Python
+- Pandas
+
+## Outcome
+The dataset became clean, consistent, and ready for analysis.
